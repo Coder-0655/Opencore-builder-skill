@@ -1,0 +1,16 @@
+{
+  "id": "builder",
+  "name": "Builder",
+  "description": "Design and build new tools, dashboards, automations, integrations, and operator surfaces for OpenCore itself.",
+  "version": 1,
+  "category": "system",
+  "triggers": [
+    "build a dashboard",
+    "build a tool",
+    "add integration",
+    "create UI",
+    "build for yourself",
+    "improve opencore"
+  ],
+  "builtin": true
+}
